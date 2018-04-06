@@ -1,2 +1,2 @@
 <?php
-echo exec("git pull origin master");
+echo exec("git pull");
